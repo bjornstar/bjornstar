@@ -17,18 +17,35 @@ Created and maintain a block list of hosts
 ## Package Maintainer
 
 ### `node-dev`
-Maintain a fairly popular node developer tool
+A fairly popular node developer tool
 * https://github.com/fgnass/node-dev
+
+### `@react-three/cannon`
+The cleanest way to add physics to a three.js project
+* https://github.com/pmndrs/use-cannon
+
+### `@pmndrs/racing-game`
+A showcase for @react-three/fiber & @react-three/cannon
+* https://github.com/pmndrs/racing-game
 
 ## Open Source Projects
 
+### gen-esm-wrapper
+* [delete `__esModule` key](https://github.com/addaleax/gen-esm-wrapper/pull/7)
+
+### chevrotain
+* [Exclude `__esModule` from esm wrapper](https://github.com/Chevrotain/chevrotain/pull/1538)
+
+### three-ts-types
+* [Update prettier from v2.2.1 to v2.3.2 and run prettier:write](https://github.com/three-types/three-ts-types/pull/100)
+* [[InstancedMesh] geometry and material are optional](https://github.com/three-types/three-ts-types/pull/99)
+
 ### iD
-Improved performance on a feature
-* https://github.com/openstreetmap/iD/pull/7980
+* [[Performance] Calculate height of the textarea instead of letting the browser do it](https://github.com/openstreetmap/iD/pull/7980)
 
 ### mocha
 Prepared a dependency update for a very urgent security advisory on heavily depended upon package
-* https://github.com/mochajs/mocha/pull/3877
+* [Update js-yaml from 3.13.0 to 3.13.1](https://github.com/mochajs/mocha/pull/3877)
 
 ### xo
 Prepared a dependency update for a security advisory
