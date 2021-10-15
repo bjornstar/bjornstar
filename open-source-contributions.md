@@ -1,34 +1,46 @@
 # Contributions to Open Source
 
-## Personal Projects
+## Personal Open Source Projects
 
-### Tumblr Savior
-Created and maintain a fairly popular browser extension for the tumblr dashboard
-* https://tumblr-savior.github.bjornstar.com
+### [Tumblr Savior](https://tumblr-savior.bjornstar.com)
+[![github](https://img.shields.io/github/package-json/v/bjornstar/tumblr-savior)](https://tumblr-savior.github.bjornstar.com)
 
-### Intercept Redirect
-Created and maintain a browser extension to save time and improve privacy
-* https://intercept-redirect.github.bjornstar.com
+A fairly popular browser extension for the tumblr dashboard
 
-### bjornstar's hosts
-Created and maintain a block list of hosts
-* https://github.com/bjornstar/hosts
+### [Intercept Redirect](https://intercept-redirect.bjornstar.com)
+[![github](https://img.shields.io/github/package-json/v/bjornstar/intercept-redirect)](https://intercept-redirect.github.bjornstar.com)
 
-## Package Maintainer
+A browser extension to save time and improve privacy
 
-### `node-dev`
-A fairly popular node developer tool
-* https://github.com/fgnass/node-dev
+### [bjornstar's hosts](https://github.com/bjornstar/hosts)
+A list of hosts that serve advertisements, trackers, and other non-essential and unwelcome content
 
-### `@react-three/cannon`
+## Open Source Package Maintainer
+
+### [`blob-polyfill`](https://github.com/bjornstar/blob-polyfill)
+[![npm](https://img.shields.io/npm/v/blob-polyfill.svg)](https://www.npmjs.com/package/blob-polyfill)
+[![npm](https://img.shields.io/npm/dm/blob-polyfill.svg)](https://www.npmjs.com/package/blob-polyfill)
+
+blob-polyfill serves `Blob.js` over npm.
+
+`Blob.js` implements the W3C `Blob` interface in browsers that do not natively support it. 
+
+### [`node-dev`](https://github.com/fgnass/node-dev)
+[![npm](https://img.shields.io/npm/v/node-dev.svg)](https://www.npmjs.com/package/node-dev)
+[![npm](https://img.shields.io/npm/dm/node-dev.svg)](https://www.npmjs.com/package/node-dev)
+
+Restart your node application when files change
+
+### [`@react-three/cannon`](https://github.com/pmndrs/use-cannon)
+[![npm](https://img.shields.io/npm/v/@react-three/cannon.svg)](https://www.npmjs.com/package/@react-three/cannon)
+[![npm](https://img.shields.io/npm/dm/@react-three/cannon.svg)](https://www.npmjs.com/package/@react-three/cannon)
+
 The cleanest way to add physics to a three.js project
-* https://github.com/pmndrs/use-cannon
 
-### `@pmndrs/racing-game`
+### [`@pmndrs/racing-game`](https://github.com/pmndrs/racing-game)
 A showcase for @react-three/fiber & @react-three/cannon
-* https://github.com/pmndrs/racing-game
 
-## Open Source Projects
+## Open Source Contributions
 
 ### gen-esm-wrapper
 * [delete `__esModule` key](https://github.com/addaleax/gen-esm-wrapper/pull/7)
