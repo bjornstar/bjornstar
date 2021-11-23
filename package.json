@@ -1,0 +1,26 @@
+{
+  "name": "@bjornstar/bjornstar",
+  "version": "1.0.0",
+  "description": "About Bjorn Stromberg",
+  "scripts": {
+    "prettier": "prettier --fix --write .",
+    "test": "npm run prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjornstar/bjornstar.git"
+  },
+  "keywords": [
+    "about",
+    "bjorn stromberg"
+  ],
+  "author": "Bjorn Stromberg <bjorn@bjornstar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjornstar/bjornstar/issues"
+  },
+  "homepage": "https://github.com/bjornstar/bjornstar#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
