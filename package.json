@@ -1,9 +1,9 @@
 {
   "name": "@bjornstar/bjornstar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "About Bjorn Stromberg",
   "scripts": {
-    "prettier": "prettier --fix --write .",
+    "prettier": "prettier --write .",
     "test": "npm run prettier"
   },
   "repository": {

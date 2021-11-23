@@ -5,18 +5,22 @@
 ### [Tumblr Savior](https://tumblr-savior.bjornstar.com)
 
 [![github](https://img.shields.io/github/package-json/v/bjornstar/tumblr-savior)](https://tumblr-savior.github.bjornstar.com)
+[![github stars](https://img.shields.io/github/stars/bjornstar/tumblr-savior)](https://tumblr-savior.github.bjornstar.com)
 
 A fairly popular browser extension for the tumblr dashboard
 
 ### [Intercept Redirect](https://intercept-redirect.bjornstar.com)
 
 [![github](https://img.shields.io/github/package-json/v/bjornstar/intercept-redirect)](https://intercept-redirect.github.bjornstar.com)
+[![github stars](https://img.shields.io/github/stars/bjornstar/intercept-redirect)](https://intercept-redirect.github.bjornstar.com)
 
 A browser extension to save time and improve privacy
 
 ### [bjornstar's hosts](https://github.com/bjornstar/hosts)
 
-A list of hosts that serve advertisements, trackers, and other non-essential and unwelcome content
+[![github stars](https://img.shields.io/github/stars/bjornstar/hosts)](https://intercept-redirect.github.bjornstar.com)
+
+A list of hosts that serve advertisements, trackers, and other non-essential, unwelcome content
 
 ## Open Source Package Maintainer
 
@@ -49,125 +53,91 @@ A showcase for @react-three/fiber & @react-three/cannon
 
 ## Open Source Contributions
 
-### [leva](https://npmjs.com/package/leva)
-
-[![npm](https://img.shields.io/npm/dm/leva.svg)](https://www.npmjs.com/package/leva)
+### [`leva`](https://npmjs.com/package/leva)
 
 - [Run eslint and prettier on all files in CI](https://github.com/pmndrs/leva/pull/278)
 - [Remove deprecated jsxBracketSameLine](https://github.com/pmndrs/leva/pull/273)
 
-### [gen-esm-wrapper](https://www.npmjs.com/package/gen-esm-wrapper)
-
-[![npm](https://img.shields.io/npm/dm/gen-esm-wrapper.svg)](https://www.npmjs.com/package/gen-esm-wrapper)
+### [`gen-esm-wrapper`](https://www.npmjs.com/package/gen-esm-wrapper)
 
 - [delete `__esModule` key](https://github.com/addaleax/gen-esm-wrapper/pull/7)
 
-### [chevrotain](https://www.npmjs.com/package/chevrotain)
-
-[![npm](https://img.shields.io/npm/dm/chevrotain.svg)](https://www.npmjs.com/package/chevrotain)
+### [`chevrotain`](https://www.npmjs.com/package/chevrotain)
 
 - [Exclude `__esModule` from esm wrapper](https://github.com/Chevrotain/chevrotain/pull/1538)
 
-### [three-ts-types](https://www.npmjs.com/package/@types/three)
-
-[![npm](https://img.shields.io/npm/dm/@types/three.svg)](https://www.npmjs.com/package/@types/three)
+### [`@types/three`](https://www.npmjs.com/package/@types/three)
 
 - [Update prettier from v2.2.1 to v2.3.2 and run prettier:write](https://github.com/three-types/three-ts-types/pull/100)
 - [[InstancedMesh] geometry and material are optional](https://github.com/three-types/three-ts-types/pull/99)
 
-### [iD](https://github.com/openstreetmap/iD)
+### [`iD`](https://github.com/openstreetmap/iD)
 
 - [[Performance] Calculate height of the textarea instead of letting the browser do it](https://github.com/openstreetmap/iD/pull/7980)
 
-### [mocha](https://www.npmjs.com/package/mocha)
-
-[![npm](https://img.shields.io/npm/dm/mocha.svg)](https://www.npmjs.com/package/mocha)
+### [`mocha`](https://www.npmjs.com/package/mocha)
 
 - [Update js-yaml from 3.13.0 to 3.13.1](https://github.com/mochajs/mocha/pull/3877)
 
-### [xo](https://www.npmjs.com/package/xo)
-
-[![npm](https://img.shields.io/npm/dm/xo.svg)](https://www.npmjs.com/package/xo)
+### [`xo`](https://www.npmjs.com/package/xo)
 
 - [Update devDependency ava from v1.1.0 to v3.9.0](https://github.com/xojs/xo/pull/490)
 - [Update meow from v5.0.0 to v7.0.1](https://github.com/xojs/xo/pull/489)
 
-### [mysql](https://www.npmjs.com/package/mysql)
-
-[![npm](https://img.shields.io/npm/dm/mocha.svg)](https://www.npmjs.com/package/mocha)
+### [`mysql`](https://www.npmjs.com/package/mysql)
 
 - [Test on node 12](https://github.com/mysqljs/mysql/pull/2211)
 
-### [Github Actions](https://github.com/actions/starter-workflows)
+### [`Github Actions`](https://github.com/actions/starter-workflows)
 
 - [Add node v14](https://github.com/actions/starter-workflows/pull/496)
 
-### [jotai](https://www.npmjs.com/package/jotai)
-
-[![npm](https://img.shields.io/npm/dm/jotai.svg)](https://www.npmjs.com/package/jotai)
+### [`jotai`](https://www.npmjs.com/package/jotai)
 
 - [[Types] Add Read & Write types, reduce duplicate type declaration](https://github.com/pmndrs/jotai/pull/367)
 
-### [Fask Mask Browser Extension](https://github.com/moklick/face-mask-browser-extension)
+### [`Fask Mask Browser Extension`](https://github.com/moklick/face-mask-browser-extension)
 
-Improvements for bundle size and performance of a fun browser extension
+- [Move face-api usage into background page](https://github.com/moklick/face-mask-browser-extension/pull/2)
+- [Using face-api.js directly reduces bundle size by 75%](https://github.com/moklick/face-mask-browser-extension/pull/1)
 
-- https://github.com/moklick/face-mask-browser-extension/pull/2
-- https://github.com/moklick/face-mask-browser-extension/pull/1
-
-### [@grpc/grpc-js](https://www.npmjs.com/package/@grpc/grpc-js)
-
-[![npm](https://img.shields.io/npm/dm/@grpc/grpc-js.svg)](https://www.npmjs.com/package/@grpc/grpc-js)
+### [`@grpc/grpc-js`](https://www.npmjs.com/package/@grpc/grpc-js)
 
 - [Stop testing EOL versions of node ](https://github.com/grpc/grpc-node/pull/1039)
 - [grpc-js: Update gts and apply fixes](https://github.com/grpc/grpc-node/pull/1031)
 - [Add dev-dependencies and fix tests so they exit after running](https://github.com/grpc/grpc-node/pull/973)
 - [grpc-js: Add @types/semver as devDependency](https://github.com/grpc/grpc-node/pull/964)
 
-### [ut_metadata](https://www.npmjs.com/package/ut_metadata)
-
-[![npm](https://img.shields.io/npm/dm/ut_metadata.svg)](https://www.npmjs.com/package/ut_metadata)
+### [`ut_metadata`](https://www.npmjs.com/package/ut_metadata)
 
 - [Stop receiving data after cancel](https://github.com/webtorrent/ut_metadata/pull/44)
 
-### [tslint](https://www.npmjs.com/package/tslint)
+### [`tslint`](https://www.npmjs.com/package/tslint)
 
-[![npm](https://img.shields.io/npm/dm/tslint.svg)](https://www.npmjs.com/package/tslint)
-
-- https://github.com/palantir/tslint/pull/4699
-- https://github.com/palantir/tslint/pull/4674
-- https://github.com/palantir/tslint/pull/4673
-- https://github.com/palantir/tslint/pull/4669
-- https://github.com/palantir/tslint/pull/4663
-- https://github.com/palantir/tslint/pull/4633
+- [[enhancement] Update devDependency nyc from v13.3.0 to v14.1.1](https://github.com/palantir/tslint/pull/4699)
+- [[enhancement] Update devDependency mocha from v6.1.3 to v6.1.4](https://github.com/palantir/tslint/pull/4674)
+- [[enhancement] Update deprecated devDependency github to @octokit/rest](https://github.com/palantir/tslint/pull/4673)
+- [[enhancement] Update mocha from v3.2.0 to v6.1.3](https://github.com/palantir/tslint/pull/4669)
+- [[enhancement] Update js-yaml from v3.13.0 to v3.13.1](https://github.com/palantir/tslint/pull/4663)
+- [[enhancement] Update nyc from v10.2.0 to v13.3.0](https://github.com/palantir/tslint/pull/4633)
 - [[enhancement] Update babel-code-frame to @babel/code-frame](https://github.com/palantir/tslint/pull/4632)
 
-### log4js
+### [`log4js`](https://npmjs.com/package/log4js)
 
-Added support for node v12
+- [fix(layout): Use level as a string for node v12](https://github.com/log4js-node/log4js-node/pull/860)
 
-- https://github.com/log4js-node/log4js-node/pull/860
+### [`tumblr.js`](https://npmjs.com/package/tumblr.js)
 
-### tumblr.js
+- [Update dependencies](https://github.com/tumblr/tumblr.js/pull/70)
 
-Update dependencies and build process
+### [`mime-db`](https://npmjs.com/package/mime-db)
 
-- https://github.com/tumblr/tumblr.js/pull/70
+- [Add support for JPEG 2000](https://github.com/jshttp/mime-db/pull/95)
 
-### mime-db
+### [`file-type`](https://npmjs.com/package/file-type)
 
-Add support for JPEG-2000
+- [Add support for JPEG 2000](https://github.com/sindresorhus/file-type/pull/108)
 
-- https://github.com/jshttp/mime-db/pull/95
+### [`babel-loader`](https://npmjs.com/package/babel-loader)
 
-### file-type
-
-Add support for JPEG-2000
-
-- https://github.com/sindresorhus/file-type/pull/108
-
-### babel-loader
-
-Fix extension for gzipped files
-
-- https://github.com/babel/babel-loader/pull/326
+- [gzipped files should have .gz as the extension, not .gzip](https://github.com/babel/babel-loader/pull/326)
