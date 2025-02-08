@@ -53,7 +53,11 @@ A showcase for @react-three/fiber & @react-three/cannon
 
 ## Open Source Contributions
 
-### [`leva`](https://npmjs.com/package/leva)
+### [`music-metadata`](https://www.npmjs.com/package/music-metadata)
+
+- [Convert most Buffer usage to Uint8Array](https://github.com/Borewit/music-metadata/pull/2103)
+
+### [`leva`](https://www.npmjs.com/package/leva)
 
 - [Run eslint and prettier on all files in CI](https://github.com/pmndrs/leva/pull/278)
 - [Remove deprecated jsxBracketSameLine](https://github.com/pmndrs/leva/pull/273)

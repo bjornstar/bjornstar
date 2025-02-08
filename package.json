@@ -1,6 +1,6 @@
 {
   "name": "@bjornstar/bjornstar",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "About Bjorn Stromberg",
   "scripts": {
     "prettier": "prettier --write .",
@@ -15,12 +15,12 @@
     "bjorn stromberg"
   ],
   "author": "Bjorn Stromberg <bjorn@bjornstar.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bjornstar/bjornstar/issues"
   },
   "homepage": "https://github.com/bjornstar/bjornstar#readme",
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "prettier": "^3.4.2"
   }
 }
