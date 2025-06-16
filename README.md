@@ -1,4 +1,4 @@
-### 🐙.js (I'm looking for work!)
+### 🐙.js
 
 Hey there, I'm <a href="https://bjornstar.com/about" rel="me">an American with a Swedish name</a> currently living in Taipei.
 
